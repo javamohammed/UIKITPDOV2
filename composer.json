@@ -1,0 +1,13 @@
+{
+    "name": "win10-user/pdo",
+    "authors": [
+        {
+            "name": "Mido.PHP",
+            "email": "java.mohammed@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "robmorgan/phinx": "^0.9.1",
+        "fzaninotto/faker": "^1.7"
+    }
+}
